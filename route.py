@@ -5,7 +5,7 @@ routes = web.RouteTableDef()
 
 @routes.get("/", allow_head=True)
 async def root_route_handler(request):
-    return web.json_response("# -- https://t.me/AshutoshGoswami24 -- ## -- https://github.com/AshutoshGoswami24/Auto-Rename-Bot -- #")
+    return web.json_response("# -- https://t.me/oo7jatji -- #")
 
 
 async def web_server():
@@ -15,5 +15,5 @@ async def web_server():
 
 
 
-          # -- https://t.me/AshutoshGoswami24 -- #
-# -- https://github.com/AshutoshGoswami24/Auto-Rename-Bot -- #
+          # -- https://t.me/oo7jatji -- #
+# -- https://t.me/WarriorUnitsBots -- #
